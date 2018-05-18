@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "env": {
+    "node": true
+  },
+  "extends": "standard"
+}

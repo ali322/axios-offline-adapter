@@ -1,0 +1,28 @@
+{
+  "name": "axios-offline-adapter",
+  "version": "0.0.1",
+  "description": "offline adapter for axios",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "eslint lib"
+  },
+  "keywords": [
+    "axios"
+  ],
+  "author": "alichen",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0"
+  },
+  "dependencies": {
+    "js-base64": "^2.4.5"
+  }
+}
