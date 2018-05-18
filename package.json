@@ -12,6 +12,10 @@
   "keywords": [
     "axios"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ali322/axios-offline-adapter.git"
+  },
   "author": "alichen",
   "license": "MIT",
   "devDependencies": {
