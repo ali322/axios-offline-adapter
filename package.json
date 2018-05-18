@@ -23,6 +23,7 @@
     "eslint-plugin-standard": "^3.1.0"
   },
   "dependencies": {
-    "js-base64": "^2.4.5"
+    "js-base64": "^2.4.5",
+    "localforage": "^1.7.1"
   }
 }
