@@ -1,6 +1,6 @@
 {
   "name": "axios-offline-adapter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "offline adapter for axios",
   "main": "lib/index.js",
   "files": [
